@@ -1,7 +1,7 @@
 # Dark Mode
 
 ### Overview
-Dark Mode project - 
+Dark Mode project - a landing page with both light and dark mode toggle functionality. Moment.js library is used to handle dates. 
 
 ### How to start
 
